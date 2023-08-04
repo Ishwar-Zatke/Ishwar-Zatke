@@ -7,7 +7,7 @@ I'm Ishwar😉 I'm a Software Developer passionate about exploring new Tech!
 ### How to reach me: 
 <a href="mailto: ishwarzatke@gmail.com">
 <img src="https://img.shields.io/badge/-ishwarzatke@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/ishwar-zatke-48708b219//">
-<a href="https://www.linkedin.com/in/ishwar-zatke-48708b219/"><img src="https://img.shields.io/badge/Ishwar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="https://www.linkedin.com/in/ishwar-zatke-48708b219/"><img src="https://img.shields.io/badge/Ishwar Zatke-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 </a> 
 
 
