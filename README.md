@@ -1,21 +1,20 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Ishwar😉 I'm a developer who is passionate about exploring new Tech!
+I'm Ishwar😉 I'm a developer passionate about exploring new Tech!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Enthusiastic+Developer;Passionate+about+Tech)](https://git.io/typing-svg)
 
 ### How to reach me: 
 <a href="mailto: ishwarzatke@gmail.com">
-<img src="https://img.shields.io/badge/-ishwarzatke@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/ishwar-zatke-48708b219//"><img src="https://img.shields.io/badge/Dhiraj-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<img src="https://img.shields.io/badge/-ishwarzatke@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/ishwar-zatke-48708b219//"><img src="https://img.shields.io/badge/Ishwar Zatke%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 
 
 ### Current Status Quo:
 
 - 💼 I’m pursuing <strong>B Tech</strong> in <strong> Artificial Intelligence and Data Science</strong>.
-- 🔭 I’m currently working on <strong>Web3, Dapps</strong> and <strong> Web development</strong>.
+- 🔭 I’m currently working on <strong>Web designing</strong> and <strong> Web development</strong>.
 - 🌱 I’m currently learning <strong>DSA</strong>.
-- 🤔 My research interests are with <strong>Blockchain</strong>
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
 - 💬 Feel free to discuss with me about <strong> resources for Coding and placements</strong>
 
